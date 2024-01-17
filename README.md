@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **AR/VR based projects on Unity 3D**
 
-- 🌱 I’m currently learning **Flutter,unreal**
+- 🌱 I’m currently learning **Flutter, Unreal**
 
 - 👯 I’m looking to collaborate on **Gaming projects on Unity 3D**
 
